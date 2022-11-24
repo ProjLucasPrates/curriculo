@@ -1,1 +1,3 @@
-# curriculo
+# Curriculo
+# https://projlucasprates.github.io./Curriculo
+
